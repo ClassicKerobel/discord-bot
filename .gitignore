@@ -1,0 +1,4 @@
+*.mp3
+venv/*
+.idea/*
+config.py
